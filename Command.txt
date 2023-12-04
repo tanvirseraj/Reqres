@@ -1,0 +1,1 @@
+newman run Reqres.postman_collection.json -e Reqres.postman_environment.json -r cli,htmlextra
